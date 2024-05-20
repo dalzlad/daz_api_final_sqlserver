@@ -1,0 +1,4 @@
+Cadena de conexión mysql
+  "ConnectionStrings": {
+    "conexion": "Server=MYSQL8010.site4now.net;Database=db_aa8c96_sena;Uid=aa8c96_sena;Pwd=sena1234;SslMode=Required;"
+  }
