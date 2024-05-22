@@ -5,7 +5,7 @@
 namespace APIOfertas.Migrations
 {
     /// <inheritdoc />
-    public partial class migracionUno : Migration
+    public partial class MigracionOfertas : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

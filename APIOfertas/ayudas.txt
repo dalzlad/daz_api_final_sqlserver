@@ -1,4 +1,16 @@
-Cadena de conexi�n mysql
+﻿dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+Cadena de conexión mysql
   "ConnectionStrings": {
     "conexion": "Server=MYSQL8010.site4now.net;Database=db_aa8c96_sena;Uid=aa8c96_sena;Pwd=sena1234;SslMode=Required;"
   }
+
+
+  Cuenta：  
+
+429272
+Contraseña：  
+
+429272
